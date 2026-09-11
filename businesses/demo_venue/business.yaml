@@ -1,0 +1,27 @@
+business:
+  id: demo_venue
+  name: Juniper Hall (demo)
+  city: San Francisco, CA
+  note: Fictional venue for demonstration only.
+capacity:
+  standing: 120
+  seated: 80
+  theater: 100
+pricing:
+  weekday_evening: "$2,400 (Mon-Thu, 6-11pm)"
+  fri_sun_evening: "$3,600 (Fri or Sun, 6-11pm)"
+  sat_evening: "$4,800 (Sat, 6-11pm)"
+  daytime_half: "$1,500 (any day, 4 hours between 9am-4pm)"
+policy:
+  min_hours: "Minimum booking is 4 hours."
+  curfew: "Amplified sound ends at 11pm."
+  deposit: "A 30% deposit is due at booking."
+  cancellation: "More than 60 days before the event: full deposit refund. 30-60 days: 50% of deposit refunded. Under 30 days: deposit is non-refundable."
+  catering: "No in-house kitchen. Outside caterers are welcome if licensed and insured (certificate of insurance required)."
+  alcohol: "Alcohol must be served by a licensed bartending service. No self-serve alcohol."
+amenities:
+  av: "Projector and screen, two wireless microphones, and house sound system are included."
+  parking: "No on-site parking. A public garage is one block away."
+  accessibility: "Step-free entrance, elevator, and accessible restrooms."
+tours:
+  schedule: "Tours are available Tuesdays and Thursdays, 2-5pm, by appointment."
